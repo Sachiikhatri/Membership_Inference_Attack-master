@@ -156,12 +156,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this code in your research, please cite:
 
 ```
-@misc{ishmeet2025membershipattack,
-  author = {Ishmeet},
+@misc{sachi2025membershipattack,
+  author = {Sachi Khatri},
   title = {Membership Inference Attack Implementation},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Ishmeet13/Membership_Inference_Attack}}
+  howpublished = {\url{[https://github.com/Sachiikhatri/Membership_Inference_Attack-master.git]}}
 }
 ```
